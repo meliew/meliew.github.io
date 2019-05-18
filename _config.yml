@@ -1,11 +1,11 @@
 # Site settings
 author: Melissa Williams
-title: 
+title: Coffee, Code, Copy
 header-img: img/home-bg.png
 email: melissa@brandmeetscopy.com
 copyright_name: Melissa Williams
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey through Flatiron's Software Engineering program
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  meliew

@@ -1,10 +1,11 @@
 ---
 layout: post
-title:      "Creating my first CLI program - Mystery CLI "
-date:       2019-07-13 01:50:51 +0000
+title:      "Creating my first CLI program"
+date:       2019-07-12 21:50:52 -0400
 permalink:  creating_my_first_cli_program_-_mystery_cli
 ---
 
+#Mystery CLI 
 
 
 When I first saw the instructions for our CLI project, I thought, “well, this probably won’t be too hard.” It wasn’t long before I changed my mind. 
